@@ -303,4 +303,10 @@ footer {
     }
 }
 
+@media (min-width: 718px) and (max-width: 1024px){
+    #linked{
+        display: none;
+    }
+}
+
 
